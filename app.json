@@ -1,0 +1,26 @@
+{
+  "id": "5f61deff-9443-4b57-9203-586e4f8d3c82",
+  "name": "SD Seminar",
+  "publisher": "Default publisher",
+  "brief": "Brief Description of the Seminar Module",
+  "description": "Long description of the Seminar Module",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50999
+  },
+  "runtime": "2.2"
+}
